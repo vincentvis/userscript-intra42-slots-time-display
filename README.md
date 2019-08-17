@@ -11,5 +11,4 @@ create new userscript and copy paste code, done
 
 ---
 
-tested in Firefox
-I don't care about chrome ;-)
+tested in Firefox, I don't care about chrome (but should probably work)
